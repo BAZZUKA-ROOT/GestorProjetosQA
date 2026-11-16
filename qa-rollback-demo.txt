@@ -1,0 +1,1 @@
+Arquivo criado apenas para validar rollback sem tocar em projetos reais.
