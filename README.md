@@ -7,3 +7,5 @@ Apenas arquivos públicos sintéticos. Sem código dos projetos reais, sem chave
 - Criação de repositório público com revisão.
 - Atualização controlada por clone temporário.
 - Sincronização de catálogo com portfólio.
+
+- Atualização posterior de README validada na API GitHub.
